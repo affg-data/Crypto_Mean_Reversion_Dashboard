@@ -8,9 +8,9 @@ The dashboard is designed for quantitative crypto analysis, signal monitoring, a
 
 ---
 
-## Features
+### Features
 
-### Interactive Dashboard
+#### Interactive Dashboard
 - Streamlit-powered web application
 - Interactive Plotly visualizations
 - Adjustable historical data window
@@ -20,7 +20,7 @@ The dashboard is designed for quantitative crypto analysis, signal monitoring, a
 
 ---
 
-### Technical Indicators
+#### Technical Indicators
 The dashboard integrates multiple technical indicators:
 
 - Exponential Moving Averages (EMA)
@@ -30,7 +30,7 @@ The dashboard integrates multiple technical indicators:
 
 ---
 
-### Signal Engine
+#### Signal Engine
 The model evaluates multiple conditions simultaneously to generate:
 
 - BUY signals
@@ -42,7 +42,7 @@ The model evaluates multiple conditions simultaneously to generate:
 
 ---
 
-### Multi-Coin Scanner
+#### Multi-Coin Scanner
 The application scans multiple cryptocurrencies simultaneously and ranks actionable setups by signal strength.
 
 The dashboard allows users to compare:
@@ -56,7 +56,7 @@ across multiple digital assets in a single interface.
 
 ---
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - Streamlit
@@ -67,7 +67,7 @@ across multiple digital assets in a single interface.
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```text
 multi-coin-mean-reversion/
@@ -88,9 +88,9 @@ multi-coin-mean-reversion/
 
 ---
 
-## Installation
+### Installation
 
-### Clone the repository
+#### Clone the repository
 
 ```bash
 git clone https://github.com/afgran-data/multi-coin-mean-reversion.git
@@ -98,7 +98,7 @@ git clone https://github.com/afgran-data/multi-coin-mean-reversion.git
 
 ---
 
-### Install dependencies
+#### Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 
 ---
 
-### Run the dashboard
+#### Run the dashboard
 
 ```bash
 streamlit run app.py
@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## Example Workflow
+### Example Workflow
 
 1. Select a cryptocurrency from the sidebar.
 2. Choose the historical data window.
@@ -128,7 +128,7 @@ streamlit run app.py
 
 ---
 
-## Signal Logic
+### Signal Logic
 
 The strategy uses a multi-factor scoring approach instead of relying on a single indicator.
 
@@ -144,7 +144,7 @@ The system attempts to identify conditions where price may statistically revert 
 
 ---
 
-## Project Goals
+### Project Goals
 
 This project was developed to:
 
@@ -156,7 +156,7 @@ This project was developed to:
 
 ---
 
-## Future Improvements
+### Future Improvements
 
 Potential future enhancements:
 
@@ -172,7 +172,7 @@ Potential future enhancements:
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This project is for educational and research purposes only.
 
@@ -182,7 +182,7 @@ Cryptocurrency markets are highly volatile and risky. Always conduct independent
 
 ---
 
-## 👤 Author
+### 👤 Author
 
 AF Gran  
 Master of Data Science Student
