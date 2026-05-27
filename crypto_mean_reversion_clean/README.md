@@ -1,10 +1,10 @@
 # Crypto Mean-Reversion Dashboard
 
-Clean production structure for your multi-coin mean-reversion project.
+Multi-coin mean-reversion project.
 
 ## What changed
 
-Your old workflow had logic spread across notebooks and Streamlit. This version separates the project into:
+Old workflow had logic spread across notebooks and Streamlit. This version separates the project into:
 
 ```text
 crypto_mean_reversion_clean/
