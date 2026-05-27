@@ -1,6 +1,6 @@
 # Crypto Mean-Reversion Dashboard
 
-Multi-coin mean-reversion project.
+Multi-coin mean-reversion project
 
 ## What changed
 
