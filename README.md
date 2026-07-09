@@ -25,7 +25,7 @@ The dashboard is designed for quantitative crypto analysis, signal monitoring, a
 <p align="center">
   <img src="assets/dashboard.gif" width="900">
 </p>
----
+
 
 ## Technical Indicators
 The dashboard integrates multiple technical indicators:
