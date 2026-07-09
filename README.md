@@ -7,7 +7,7 @@ The project combines trend analysis, momentum indicators, Bollinger Band stretch
 The dashboard is designed for quantitative crypto analysis, signal monitoring, and educational experimentation rather than automated execution.
 
 <p align="center">
-  <img src="assets/dashboard_overview.png" width="700">
+  <img src="assets/dashboard_overview.png" width="900">
 </p>
 
 ---
