@@ -20,7 +20,7 @@ The dashboard is designed for quantitative crypto analysis, signal monitoring, a
 - Multi-coin signal scanner
 - Action dashboard for BUY/SELL setups
 
-![Dashboard Demo](assets/dashboard_demo.gif)
+![Dashboard Demo](assets/dashboard.gif)
 ---
 
 ## Technical Indicators
