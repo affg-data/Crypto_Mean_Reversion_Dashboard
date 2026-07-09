@@ -1,4 +1,4 @@
-# Crypto Mean-Reversion Dashboard
+# Mean-Reversion Crypto Dashboard
 
 A Streamlit-based cryptocurrency analytics dashboard designed to identify potential mean-reversion opportunities across Bitcoin and selected altcoins using technical signal confluence.
 
