@@ -23,7 +23,7 @@ The dashboard is designed for quantitative crypto analysis, signal monitoring, a
 - Action dashboard for BUY/SELL setups
 
 <p align="center">
-  <img src="assets/dashboard_demo.gif" width="500">
+  <img src="assets/dashboard.gif" width="500">
 </p>
 ---
 
